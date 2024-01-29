@@ -15,7 +15,10 @@ Concevoir une application mobile permettant aux utilisateurs de faire des paris 
 <br>
 <img align="center" alt="GO" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">  GO</img>
 <br><br>
-**Base de Donnée:**  PostgreSQL
+**Base de Donnée:** 
+
+<img align="center" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">  PostgreSQL</img>
+
 
 <br><br>
 

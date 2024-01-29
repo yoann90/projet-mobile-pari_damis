@@ -1,2 +1,5 @@
 # projet-mobile-pari_damis
-![Group 15](https://github.com/yoann90/projet-mobile-pari_damis/assets/135041871/1ad12a97-945e-4b9e-9c94-1a92d1f00630)
+
+
+![Présentation](https://github.com/yoann90/projet-mobile-pari_damis/assets/135041871/773bdd8d-d07c-45b2-bafb-287010eac0ca)
+![Présentation 2](https://github.com/yoann90/projet-mobile-pari_damis/assets/135041871/d83959b4-da90-47e8-a294-3067ce54d911)

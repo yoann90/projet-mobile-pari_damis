@@ -2,9 +2,10 @@
 
 ## Tech Stack
 
-**Client:** React Native, Redux, TailwindCSS
+**Client:** React Native, CSS
 
-**Server:** Node, Express
+**Server:** GO
+**Base de Donnée:**  PostgreSQL
 
 
 ## Run Locally
@@ -12,7 +13,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/yoann90/projet-mobile-pari_damis.git
 ```
 
 Go to the project directory

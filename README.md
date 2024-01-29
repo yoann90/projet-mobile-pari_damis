@@ -9,31 +9,6 @@
 **Base de Donnée:**  PostgreSQL
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/yoann90/projet-mobile-pari_damis.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 <img width="999" alt="Capture d’écran 2024-01-29 à 11 52 03" src="https://github.com/yoann90/projet-mobile-pari_damis/assets/135041871/db204381-ec3c-4b7d-84e8-2f7f3007c9a5">
